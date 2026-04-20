@@ -283,4 +283,4 @@ This repository currently implements the core MVP flows:
 
 ## License
 
-No license file is currently included in this repository. If you plan to share or reuse the project publicly, add an explicit license before broad distribution.
+MIT. Add a `LICENSE` file with the standard MIT text to make the repository license explicit for GitHub and downstream reuse.
