@@ -1,0 +1,127 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e96]
+  - main [ref=e240]:
+    - generic [ref=e241]:
+      - generic [ref=e242]:
+        - generic [ref=e243]:
+          - generic [ref=e244]: Portfolio workspace
+          - generic [ref=e245]:
+            - paragraph [ref=e246]: Portfolio overview
+            - heading "Prod's Portfolio" [level=1] [ref=e247]
+            - paragraph [ref=e248]: Welcome back, Prod. This summary turns your saved portfolio into a product surface with live valuation, portfolio structure, concentration, and drift signals before you make the next move.
+        - generic [ref=e249]:
+          - paragraph [ref=e250]: Today at a glance
+          - generic [ref=e251]:
+            - paragraph [ref=e252]: Total market value
+            - paragraph [ref=e253]: $0.00
+            - paragraph [ref=e254]: Unrealized P/L $0.00
+          - generic [ref=e255]:
+            - generic [ref=e256]:
+              - term [ref=e257]: Base currency
+              - definition [ref=e258]: CAD
+            - generic [ref=e259]:
+              - term [ref=e260]: Rebalance threshold
+              - definition [ref=e261]: 5.0%
+            - generic [ref=e262]:
+              - term [ref=e263]: Pricing coverage
+              - definition [ref=e264]: Unavailable
+            - generic [ref=e265]:
+              - term [ref=e266]: Tracked ETFs
+              - definition [ref=e267]: "4"
+          - generic [ref=e268]:
+            - link "Manage accounts" [ref=e269] [cursor=pointer]:
+              - /url: "#accounts"
+            - link "Open workspace view" [ref=e270] [cursor=pointer]:
+              - /url: /portfolio/cmo58je3f000004ju64c2kghv
+            - link "Product overview" [ref=e271] [cursor=pointer]:
+              - /url: /
+      - generic [ref=e272]:
+        - generic [ref=e273]:
+          - term [ref=e274]: Total value
+          - definition [ref=e275]: $0.00
+          - paragraph [ref=e276]: Latest price data rolls up all account balances into one portfolio view.
+        - generic [ref=e277]:
+          - term [ref=e278]: Unrealized P/L
+          - definition [ref=e279]: $0.00
+          - paragraph [ref=e280]: Difference between live market value and your tracked cost basis.
+        - generic [ref=e281]:
+          - term [ref=e282]: Largest holding
+          - definition [ref=e283]: No holdings yet
+          - paragraph [ref=e284]: Add holdings to start surfacing concentration and valuation leaders.
+        - generic [ref=e285]:
+          - term [ref=e286]: Next review
+          - definition [ref=e287]: Add your first account
+          - paragraph [ref=e288]: Once an account is in place, the dashboard can start turning targets into real portfolio signals.
+    - generic [ref=e289]:
+      - generic [ref=e290]:
+        - generic [ref=e291]:
+          - paragraph [ref=e292]: Current portfolio structure
+          - heading "Largest ETF weights right now" [level=2] [ref=e293]
+          - paragraph [ref=e294]: Compare your current mix with the saved target plan so the biggest gaps are visible immediately.
+        - generic [ref=e295]:
+          - paragraph [ref=e296]: No live structure yet
+          - paragraph [ref=e297]: Your target allocation is saved. Add accounts and holdings to compare live ETF weights against that plan.
+      - generic [ref=e298]:
+        - generic [ref=e299]:
+          - paragraph [ref=e300]: Portfolio signals
+          - heading "Highlights worth reviewing" [level=2] [ref=e301]
+          - paragraph [ref=e302]: These lists are pulled from the existing dashboard overview so the summary stays grounded in the real portfolio state.
+        - generic [ref=e303]:
+          - generic [ref=e304]:
+            - generic [ref=e305]:
+              - heading "Top holdings" [level=3] [ref=e306]
+              - generic [ref=e307]: By market value
+            - paragraph [ref=e308]: Add holdings to see the biggest positions driving your portfolio value.
+          - generic [ref=e309]:
+            - generic [ref=e310]:
+              - heading "Top exposure buckets" [level=3] [ref=e311]
+              - generic [ref=e312]: By weight
+            - paragraph [ref=e313]: Exposure analysis will appear here once live holdings are available.
+          - generic [ref=e314]:
+            - generic [ref=e315]:
+              - heading "Drift watchlist" [level=3] [ref=e316]
+              - generic [ref=e317]: Biggest gaps
+            - list [ref=e318]:
+              - listitem [ref=e319]:
+                - generic [ref=e320]:
+                  - paragraph [ref=e321]: XEQT
+                  - paragraph [ref=e322]: Current 0.0% · Target 55.0%
+                - paragraph [ref=e323]: "-0.6 pts"
+              - listitem [ref=e324]:
+                - generic [ref=e325]:
+                  - paragraph [ref=e326]: XBB
+                  - paragraph [ref=e327]: Current 0.0% · Target 25.0%
+                - paragraph [ref=e328]: "-0.3 pts"
+              - listitem [ref=e329]:
+                - generic [ref=e330]:
+                  - paragraph [ref=e331]: VCN
+                  - paragraph [ref=e332]: Current 0.0% · Target 10.0%
+                - paragraph [ref=e333]: "-0.1 pts"
+              - listitem [ref=e334]:
+                - generic [ref=e335]:
+                  - paragraph [ref=e336]: XAW
+                  - paragraph [ref=e337]: Current 0.0% · Target 10.0%
+                - paragraph [ref=e338]: "-0.1 pts"
+    - generic [ref=e339]:
+      - generic [ref=e340]:
+        - paragraph [ref=e341]: Accounts snapshot
+        - heading "Accounts and holdings" [level=2] [ref=e342]
+        - paragraph [ref=e343]: Keep the portfolio data fresh by updating accounts, holdings, and average costs from the same dashboard where you review summary signals.
+      - generic [ref=e345]:
+        - generic [ref=e346]:
+          - generic [ref=e347]:
+            - text: Account name
+            - textbox "Account name" [ref=e348]:
+              - /placeholder: TFSA
+          - generic [ref=e349]:
+            - text: Account type
+            - combobox "Account type" [ref=e350]:
+              - option "TFSA" [selected]
+              - option "RRSP"
+              - option "TAXABLE"
+              - option "GENERAL"
+        - paragraph [ref=e351]
+        - button "Add account" [ref=e352]
+      - generic [ref=e353]:
+        - paragraph [ref=e354]: No accounts added yet
+        - paragraph [ref=e355]: Start with the account where you actually hold ETFs. Once an account exists, you can add holdings and the dashboard will immediately turn those positions into value, exposure, and drift summaries.

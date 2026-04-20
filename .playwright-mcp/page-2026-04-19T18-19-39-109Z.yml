@@ -1,0 +1,67 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]: Phase 3 account creation
+        - generic [ref=e6]:
+          - generic [ref=e7]:
+            - paragraph [ref=e8]: Credentials access
+            - heading "Create your account and start onboarding" [level=1] [ref=e9]
+          - paragraph [ref=e10]: Set up credentials, move directly into portfolio onboarding, and keep the first-run experience aligned with the rest of the product shell.
+        - generic [ref=e11]:
+          - generic [ref=e12]:
+            - term [ref=e13]: Sign-up action
+            - definition [ref=e14]: Server wired
+            - paragraph [ref=e15]: Uses the existing registration service and action.
+          - generic [ref=e16]:
+            - term [ref=e17]: Auto sign-in
+            - definition [ref=e18]: Enabled
+            - paragraph [ref=e19]: Successful registration continues into onboarding.
+          - generic [ref=e20]:
+            - term [ref=e21]: Portfolio setup
+            - definition [ref=e22]: Next step
+            - paragraph [ref=e23]: The first portfolio is created right after account creation.
+          - generic [ref=e24]:
+            - term [ref=e25]: Visual tone
+            - definition [ref=e26]: Consistent
+            - paragraph [ref=e27]: Built from the same rounded Tailwind surfaces as home.
+        - generic [ref=e28]:
+          - paragraph [ref=e29]:
+            - text: Already registered?
+            - link "Sign in instead" [ref=e30] [cursor=pointer]:
+              - /url: /sign-in
+            - text: .
+          - link "Back to the landing page" [ref=e31] [cursor=pointer]:
+            - /url: /
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - paragraph [ref=e34]: Create your account
+          - heading "Set up your ETF workspace" [level=2] [ref=e35]
+          - paragraph [ref=e36]: This account unlocks the onboarding flow and the first dashboard shell.
+        - generic [ref=e37]:
+          - group [ref=e38]:
+            - generic [ref=e39]:
+              - text: Name
+              - textbox "Name" [ref=e40]:
+                - /placeholder: Optional display name
+            - generic [ref=e41]:
+              - text: Email
+              - textbox "Email" [ref=e42]:
+                - /placeholder: you@example.com
+            - generic [ref=e43]:
+              - text: Password
+              - textbox "Password" [ref=e44]:
+                - /placeholder: At least 8 characters
+            - generic [ref=e45]:
+              - text: Confirm password
+              - textbox "Confirm password" [ref=e46]:
+                - /placeholder: Re-enter your password
+          - paragraph [ref=e47]
+          - generic [ref=e48]:
+            - button "Create account" [ref=e49]
+            - paragraph [ref=e50]:
+              - text: Already have an account?
+              - link "Sign in instead" [ref=e51] [cursor=pointer]:
+                - /url: /sign-in
+              - text: .
+  - alert [ref=e52]

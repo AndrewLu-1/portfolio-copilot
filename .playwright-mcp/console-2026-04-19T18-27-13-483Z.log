@@ -1,0 +1,2 @@
+[   13413ms] [ERROR] Access to fetch at 'https://portfolio-copilot-andrew-lu.vercel.app/dashboard' (redirected from 'https://portfolio-copilot-sandy.vercel.app/sign-in?_rsc=1r34m') from origin 'https://portfolio-copilot-sandy.vercel.app' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: Redirect is not allowed for a preflight request. @ https://portfolio-copilot-sandy.vercel.app/sign-up:0
+[   13413ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://portfolio-copilot-andrew-lu.vercel.app/dashboard:0
