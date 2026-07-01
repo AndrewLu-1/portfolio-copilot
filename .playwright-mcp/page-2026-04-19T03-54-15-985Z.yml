@@ -1,0 +1,85 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]: Decision support for long-term ETF investors
+        - generic [ref=e6]:
+          - generic [ref=e7]:
+            - paragraph [ref=e8]: ETF Portfolio Copilot
+            - heading "Move from portfolio tracking to clear next decisions." [level=1] [ref=e9]
+          - paragraph [ref=e10]: ETF Portfolio Copilot helps you keep a long-term ETF plan on track with target allocations, exposure visibility, live valuation snapshots, and a cleaner path from “what do I own?” to “what should I do next?”
+        - generic [ref=e11]:
+          - link "Create your account" [ref=e12] [cursor=pointer]:
+            - /url: /sign-up
+          - link "Sign in" [ref=e13] [cursor=pointer]:
+            - /url: /sign-in
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - term [ref=e16]: Allocation drift
+            - definition [ref=e17]: Visible
+            - paragraph [ref=e18]: Compare actual ETF weights against the plan you want to maintain.
+          - generic [ref=e19]:
+            - term [ref=e20]: Exposure overlap
+            - definition [ref=e21]: Summarized
+            - paragraph [ref=e22]: See where regions and sectors stack up across your ETF mix.
+          - generic [ref=e23]:
+            - term [ref=e24]: Latest pricing
+            - definition [ref=e25]: Included
+            - paragraph [ref=e26]: Valuation cards are grounded in daily price history rather than mock UI state.
+          - generic [ref=e27]:
+            - term [ref=e28]: Next step
+            - definition [ref=e29]: Actionable
+            - paragraph [ref=e30]: The product is designed to support contributions and rebalancing, not just reporting.
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - paragraph [ref=e34]: Product flow
+          - heading "Built to bridge planning and action." [level=2] [ref=e35]
+          - paragraph [ref=e36]: The first product slice already connects onboarding, authenticated summaries, and account-level CRUD in one coherent flow.
+        - generic [ref=e37]:
+          - generic [ref=e39]:
+            - generic [ref=e40]: "1"
+            - generic [ref=e41]:
+              - paragraph [ref=e42]: Set your target ETF mix
+              - paragraph [ref=e43]: Create the plan you want to stay aligned with over time.
+          - generic [ref=e45]:
+            - generic [ref=e46]: "2"
+            - generic [ref=e47]:
+              - paragraph [ref=e48]: Add accounts and holdings
+              - paragraph [ref=e49]: Bring in real positions so valuation and drift become meaningful.
+          - generic [ref=e51]:
+            - generic [ref=e52]: "3"
+            - generic [ref=e53]:
+              - paragraph [ref=e54]: Review concentration and drift
+              - paragraph [ref=e55]: Use summary signals to decide what deserves attention next.
+    - generic [ref=e56]:
+      - generic [ref=e57]:
+        - heading "Stay aligned with the portfolio you meant to build" [level=2] [ref=e58]
+        - paragraph [ref=e59]: The dashboard is focused on the few signals that matter most when you are steadily contributing to an ETF plan.
+        - list [ref=e60]:
+          - listitem [ref=e61]:
+            - generic [ref=e63]: See current holdings against saved target weights.
+          - listitem [ref=e64]:
+            - generic [ref=e66]: Spot concentration before a single ETF quietly dominates the mix.
+          - listitem [ref=e67]:
+            - generic [ref=e69]: Review drift using a simple percentage-point view instead of opaque scoring.
+      - generic [ref=e70]:
+        - heading "Understand what is really driving exposure" [level=2] [ref=e71]
+        - paragraph [ref=e72]: Portfolio overlap is easier to reason about when exposure buckets are summarized in one place.
+        - list [ref=e73]:
+          - listitem [ref=e74]:
+            - generic [ref=e76]: Surface the biggest region or sector buckets first.
+          - listitem [ref=e77]:
+            - generic [ref=e79]: Tie exposure summaries back to the holdings creating them.
+          - listitem [ref=e80]:
+            - generic [ref=e82]: Keep the analytics explainable enough to trust during real decisions.
+      - generic [ref=e83]:
+        - heading "A narrow product slice with real utility" [level=2] [ref=e84]
+        - paragraph [ref=e85]: This release stays intentionally small, but it now reads like a usable product surface instead of a setup milestone.
+        - list [ref=e86]:
+          - listitem [ref=e87]:
+            - generic [ref=e89]: Landing page copy now speaks to the user problem, not project phases.
+          - listitem [ref=e90]:
+            - generic [ref=e92]: Signed-in users get a path back to the right next step immediately.
+          - listitem [ref=e93]:
+            - generic [ref=e95]: Dashboard summaries are grounded in live portfolio data already owned by the service layer.
+  - alert [ref=e96]

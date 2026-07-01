@@ -1,0 +1,531 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e145]
+  - main [ref=e146]:
+    - generic [ref=e147]:
+      - generic [ref=e148]:
+        - generic [ref=e149]:
+          - generic [ref=e150]: Portfolio workspace
+          - generic [ref=e151]:
+            - paragraph [ref=e152]: Portfolio overview
+            - heading "Playwright's Portfolio" [level=1] [ref=e153]
+            - paragraph [ref=e154]: Welcome back, Playwright. This summary turns your saved portfolio into a product surface with live valuation, portfolio structure, concentration, and drift signals before you make the next move.
+        - generic [ref=e155]:
+          - paragraph [ref=e156]: Today at a glance
+          - generic [ref=e157]:
+            - paragraph [ref=e158]: Total market value
+            - paragraph [ref=e159]: $8,780.70
+            - paragraph [ref=e160]: Unrealized P/L +$396.21
+          - generic [ref=e161]:
+            - generic [ref=e162]:
+              - term [ref=e163]: Base currency
+              - definition [ref=e164]: CAD
+            - generic [ref=e165]:
+              - term [ref=e166]: Rebalance threshold
+              - definition [ref=e167]: 5.0%
+            - generic [ref=e168]:
+              - term [ref=e169]: Pricing coverage
+              - definition [ref=e170]: 2026-04-14
+            - generic [ref=e171]:
+              - term [ref=e172]: Tracked ETFs
+              - definition [ref=e173]: "4"
+          - generic [ref=e174]:
+            - link "Manage accounts" [ref=e175] [cursor=pointer]:
+              - /url: "#accounts"
+            - link "Open workspace view" [ref=e176] [cursor=pointer]:
+              - /url: /portfolio/cmo63dqnz0000renxtc4uqi62
+            - link "Product overview" [ref=e177] [cursor=pointer]:
+              - /url: /
+      - generic [ref=e178]:
+        - generic [ref=e179]:
+          - term [ref=e180]: Total value
+          - definition [ref=e181]: $8,780.70
+          - paragraph [ref=e182]: Latest price data rolls up all account balances into one portfolio view.
+        - generic [ref=e183]:
+          - term [ref=e184]: Unrealized P/L
+          - definition [ref=e185]: +$396.21
+          - paragraph [ref=e186]: Difference between live market value and your tracked cost basis.
+        - generic [ref=e187]:
+          - term [ref=e188]: Largest holding
+          - definition [ref=e189]: XEQT
+          - paragraph [ref=e190]: $4,147.20 is the current portfolio leader.
+        - generic [ref=e191]:
+          - term [ref=e192]: Next review
+          - definition [ref=e193]: Review XBB drift
+          - paragraph [ref=e194]: XBB is currently -0.1 pts away from target.
+    - generic [ref=e195]:
+      - generic [ref=e196]:
+        - generic [ref=e197]:
+          - paragraph [ref=e198]: Current portfolio structure
+          - heading "Largest ETF weights right now" [level=2] [ref=e199]
+          - paragraph [ref=e200]: Compare your current mix with the saved target plan so the biggest gaps are visible immediately.
+        - generic [ref=e201]:
+          - generic [ref=e202]:
+            - generic [ref=e203]:
+              - generic [ref=e204]:
+                - paragraph [ref=e205]: XEQT
+                - paragraph [ref=e206]: $5,356.80 of current market value
+              - generic [ref=e207]:
+                - paragraph [ref=e208]: 61.0%
+                - paragraph [ref=e209]: Target 55.0%
+            - paragraph [ref=e213]: "Gap to target: +6.0 pts"
+          - generic [ref=e214]:
+            - generic [ref=e215]:
+              - generic [ref=e216]:
+                - paragraph [ref=e217]: XAW
+                - paragraph [ref=e218]: $1,188.32 of current market value
+              - generic [ref=e219]:
+                - paragraph [ref=e220]: 13.5%
+                - paragraph [ref=e221]: Target 10.0%
+            - paragraph [ref=e225]: "Gap to target: +3.5 pts"
+          - generic [ref=e226]:
+            - generic [ref=e227]:
+              - generic [ref=e228]:
+                - paragraph [ref=e229]: XBB
+                - paragraph [ref=e230]: $1,177.60 of current market value
+              - generic [ref=e231]:
+                - paragraph [ref=e232]: 13.4%
+                - paragraph [ref=e233]: Target 25.0%
+            - paragraph [ref=e237]: "Gap to target: -11.6 pts"
+          - generic [ref=e238]:
+            - generic [ref=e239]:
+              - generic [ref=e240]:
+                - paragraph [ref=e241]: VCN
+                - paragraph [ref=e242]: $1,057.98 of current market value
+              - generic [ref=e243]:
+                - paragraph [ref=e244]: 12.0%
+                - paragraph [ref=e245]: Target 10.0%
+            - paragraph [ref=e249]: "Gap to target: +2.0 pts"
+      - generic [ref=e250]:
+        - generic [ref=e251]:
+          - paragraph [ref=e252]: Portfolio signals
+          - heading "Highlights worth reviewing" [level=2] [ref=e253]
+          - paragraph [ref=e254]: These lists are pulled from the existing dashboard overview so the summary stays grounded in the real portfolio state.
+        - generic [ref=e255]:
+          - generic [ref=e256]:
+            - generic [ref=e257]:
+              - heading "Top holdings" [level=3] [ref=e258]
+              - generic [ref=e259]: By market value
+            - list [ref=e260]:
+              - listitem [ref=e261]:
+                - generic [ref=e262]:
+                  - paragraph [ref=e263]: XEQT
+                  - paragraph [ref=e264]: iShares Core Equity ETF Portfolio
+                - generic [ref=e265]:
+                  - paragraph [ref=e266]: $4,147.20
+                  - paragraph [ref=e267]: Priced 2026-04-16
+              - listitem [ref=e268]:
+                - generic [ref=e269]:
+                  - paragraph [ref=e270]: XEQT
+                  - paragraph [ref=e271]: iShares Core Equity ETF Portfolio
+                - generic [ref=e272]:
+                  - paragraph [ref=e273]: $1,209.60
+                  - paragraph [ref=e274]: Priced 2026-04-16
+              - listitem [ref=e275]:
+                - generic [ref=e276]:
+                  - paragraph [ref=e277]: XAW
+                  - paragraph [ref=e278]: iShares Core MSCI All Country World ex Canada Index ETF
+                - generic [ref=e279]:
+                  - paragraph [ref=e280]: $1,188.32
+                  - paragraph [ref=e281]: Priced 2026-04-14
+              - listitem [ref=e282]:
+                - generic [ref=e283]:
+                  - paragraph [ref=e284]: XBB
+                  - paragraph [ref=e285]: iShares Core Canadian Universe Bond Index ETF
+                - generic [ref=e286]:
+                  - paragraph [ref=e287]: $1,177.60
+                  - paragraph [ref=e288]: Priced 2026-04-17
+          - generic [ref=e289]:
+            - generic [ref=e290]:
+              - heading "Top exposure buckets" [level=3] [ref=e291]
+              - generic [ref=e292]: By weight
+            - list [ref=e293]:
+              - listitem [ref=e294]:
+                - generic [ref=e295]:
+                  - paragraph [ref=e296]: Equity
+                  - paragraph [ref=e297]: ASSET_CLASS · VCN, XAW, XEQT
+                - generic [ref=e298]:
+                  - paragraph [ref=e299]: 86.6%
+                  - paragraph [ref=e300]: $7,603.10
+              - listitem [ref=e301]:
+                - generic [ref=e302]:
+                  - paragraph [ref=e303]: Canada
+                  - paragraph [ref=e304]: REGION · VCN, XBB, XEQT
+                - generic [ref=e305]:
+                  - paragraph [ref=e306]: 40.1%
+                  - paragraph [ref=e307]: $3,521.21
+              - listitem [ref=e308]:
+                - generic [ref=e309]:
+                  - paragraph [ref=e310]: United States
+                  - paragraph [ref=e311]: REGION · XAW, XEQT
+                - generic [ref=e312]:
+                  - paragraph [ref=e313]: 36.6%
+                  - paragraph [ref=e314]: $3,212.77
+              - listitem [ref=e315]:
+                - generic [ref=e316]:
+                  - paragraph [ref=e317]: International Developed
+                  - paragraph [ref=e318]: REGION · XAW, XEQT
+                - generic [ref=e319]:
+                  - paragraph [ref=e320]: 16.3%
+                  - paragraph [ref=e321]: $1,433.89
+          - generic [ref=e322]:
+            - generic [ref=e323]:
+              - heading "Drift watchlist" [level=3] [ref=e324]
+              - generic [ref=e325]: Biggest gaps
+            - list [ref=e326]:
+              - listitem [ref=e327]:
+                - generic [ref=e328]:
+                  - paragraph [ref=e329]: XBB
+                  - paragraph [ref=e330]: Current 13.4% · Target 25.0%
+                - paragraph [ref=e331]: "-0.1 pts"
+              - listitem [ref=e332]:
+                - generic [ref=e333]:
+                  - paragraph [ref=e334]: XEQT
+                  - paragraph [ref=e335]: Current 61.0% · Target 55.0%
+                - paragraph [ref=e336]: +0.1 pts
+              - listitem [ref=e337]:
+                - generic [ref=e338]:
+                  - paragraph [ref=e339]: XAW
+                  - paragraph [ref=e340]: Current 13.5% · Target 10.0%
+                - paragraph [ref=e341]: +0.0 pts
+              - listitem [ref=e342]:
+                - generic [ref=e343]:
+                  - paragraph [ref=e344]: VCN
+                  - paragraph [ref=e345]: Current 12.0% · Target 10.0%
+                - paragraph [ref=e346]: +0.0 pts
+    - generic [ref=e347]:
+      - generic [ref=e348]:
+        - paragraph [ref=e349]: Accounts snapshot
+        - heading "Accounts and holdings" [level=2] [ref=e350]
+        - paragraph [ref=e351]: Keep the portfolio data fresh by updating accounts, holdings, and average costs from the same dashboard where you review summary signals.
+      - generic [ref=e353]:
+        - generic [ref=e354]:
+          - generic [ref=e355]:
+            - text: Account name
+            - textbox "Account name Account name TFSA Account name RRSP Account name Taxable" [ref=e356]:
+              - /placeholder: TFSA
+          - generic [ref=e357]:
+            - text: Account type
+            - combobox "Account type Account type TFSA Account type RRSP Account type TAXABLE" [ref=e358]:
+              - option "TFSA" [selected]
+              - option "RRSP"
+              - option "TAXABLE"
+              - option "GENERAL"
+        - paragraph [ref=e359]
+        - button "Add account" [ref=e360]
+      - generic [ref=e361]:
+        - generic [ref=e362]:
+          - generic [ref=e363]:
+            - generic [ref=e364]:
+              - paragraph [ref=e365]: TFSA
+              - paragraph [ref=e366]: TFSA account · CAD
+            - generic [ref=e367]:
+              - paragraph [ref=e368]: 2 holdings
+              - paragraph [ref=e369]: $5,324.80
+          - generic [ref=e370]:
+            - generic [ref=e371]:
+              - generic [ref=e372]:
+                - generic [ref=e373]:
+                  - text: Account name
+                  - textbox [ref=e374]: TFSA
+                - generic [ref=e375]:
+                  - text: Account type
+                  - combobox [ref=e376]:
+                    - option "TFSA" [selected]
+                    - option "RRSP"
+                    - option "TAXABLE"
+                    - option "GENERAL"
+                - paragraph [ref=e377]
+                - button "Save account" [ref=e379]
+              - button "Delete account" [ref=e381]
+            - generic [ref=e382]:
+              - paragraph [ref=e383]: Account valuation
+              - generic [ref=e384]:
+                - generic [ref=e385]:
+                  - term [ref=e386]: Market value
+                  - definition [ref=e387]: $5,324.80
+                - generic [ref=e388]:
+                  - term [ref=e389]: Cost basis
+                  - definition [ref=e390]: $5,015.60
+                - generic [ref=e391]:
+                  - term [ref=e392]: Unrealized P/L
+                  - definition [ref=e393]: +$309.20
+          - generic [ref=e395]:
+            - generic [ref=e396]:
+              - generic [ref=e397]:
+                - text: ETF
+                - combobox "ETF ETF VCN · Vanguard FTSE Canada All Cap Index ETF ETF VCN · Vanguard FTSE Canada All Cap Index ETF" [ref=e398]:
+                  - option "VCN · Vanguard FTSE Canada All Cap Index ETF" [selected]
+                  - option "XAW · iShares Core MSCI All Country World ex Canada Index ETF"
+                  - option "XBB · iShares Core Canadian Universe Bond Index ETF"
+                  - option "XEQT · iShares Core Equity ETF Portfolio"
+              - generic [ref=e399]:
+                - text: Units
+                - spinbutton "Units Units 120.000000 Units 40.000000 Units Units 35.000000 Units 28.000000 Units Units 22.000000" [ref=e400]
+              - generic [ref=e401]:
+                - text: Avg cost / unit
+                - spinbutton "Avg cost / unit Avg cost / unit 32.1500 Avg cost / unit 28.9400 Avg cost / unit Avg cost / unit 33.0500 Avg cost / unit 41.8800 Avg cost / unit Avg cost / unit 47.2500" [ref=e402]
+            - paragraph [ref=e403]
+            - button "Add holding" [ref=e404]
+          - generic [ref=e405]:
+            - generic [ref=e407]:
+              - generic [ref=e408]:
+                - generic [ref=e409]:
+                  - paragraph [ref=e410]: XEQT
+                  - paragraph [ref=e411]: iShares Core Equity ETF Portfolio
+                - generic [ref=e412]:
+                  - generic [ref=e413]:
+                    - generic [ref=e414]:
+                      - text: Units
+                      - spinbutton [ref=e415]: "120.000000"
+                    - generic [ref=e416]:
+                      - text: Avg cost / unit
+                      - spinbutton [ref=e417]: "32.1500"
+                  - paragraph [ref=e418]
+                  - button "Save holding" [ref=e420]
+                - button "Delete holding" [ref=e422]
+              - generic [ref=e423]:
+                - paragraph [ref=e424]: Latest valuation
+                - generic [ref=e425]:
+                  - generic [ref=e426]:
+                    - term [ref=e427]: Latest price
+                    - definition [ref=e428]: $34.56
+                  - generic [ref=e429]:
+                    - term [ref=e430]: Market value
+                    - definition [ref=e431]: $4,147.20
+                  - generic [ref=e432]:
+                    - term [ref=e433]: Unrealized P/L
+                    - definition [ref=e434]: +$289.20
+                  - generic [ref=e435]:
+                    - term [ref=e436]: Price date
+                    - definition [ref=e437]: 2026-04-16
+            - generic [ref=e439]:
+              - generic [ref=e440]:
+                - generic [ref=e441]:
+                  - paragraph [ref=e442]: XBB
+                  - paragraph [ref=e443]: iShares Core Canadian Universe Bond Index ETF
+                - generic [ref=e444]:
+                  - generic [ref=e445]:
+                    - generic [ref=e446]:
+                      - text: Units
+                      - spinbutton [ref=e447]: "40.000000"
+                    - generic [ref=e448]:
+                      - text: Avg cost / unit
+                      - spinbutton [ref=e449]: "28.9400"
+                  - paragraph [ref=e450]
+                  - button "Save holding" [ref=e452]
+                - button "Delete holding" [ref=e454]
+              - generic [ref=e455]:
+                - paragraph [ref=e456]: Latest valuation
+                - generic [ref=e457]:
+                  - generic [ref=e458]:
+                    - term [ref=e459]: Latest price
+                    - definition [ref=e460]: $29.44
+                  - generic [ref=e461]:
+                    - term [ref=e462]: Market value
+                    - definition [ref=e463]: $1,177.60
+                  - generic [ref=e464]:
+                    - term [ref=e465]: Unrealized P/L
+                    - definition [ref=e466]: +$20.00
+                  - generic [ref=e467]:
+                    - term [ref=e468]: Price date
+                    - definition [ref=e469]: 2026-04-17
+        - generic [ref=e470]:
+          - generic [ref=e471]:
+            - generic [ref=e472]:
+              - paragraph [ref=e473]: RRSP
+              - paragraph [ref=e474]: RRSP account · CAD
+            - generic [ref=e475]:
+              - paragraph [ref=e476]: 2 holdings
+              - paragraph [ref=e477]: $2,397.92
+          - generic [ref=e478]:
+            - generic [ref=e479]:
+              - generic [ref=e480]:
+                - generic [ref=e481]:
+                  - text: Account name
+                  - textbox [ref=e482]: RRSP
+                - generic [ref=e483]:
+                  - text: Account type
+                  - combobox [ref=e484]:
+                    - option "TFSA"
+                    - option "RRSP" [selected]
+                    - option "TAXABLE"
+                    - option "GENERAL"
+                - paragraph [ref=e485]
+                - button "Save account" [ref=e487]
+              - button "Delete account" [ref=e489]
+            - generic [ref=e490]:
+              - paragraph [ref=e491]: Account valuation
+              - generic [ref=e492]:
+                - generic [ref=e493]:
+                  - term [ref=e494]: Market value
+                  - definition [ref=e495]: $2,397.92
+                - generic [ref=e496]:
+                  - term [ref=e497]: Cost basis
+                  - definition [ref=e498]: $2,329.39
+                - generic [ref=e499]:
+                  - term [ref=e500]: Unrealized P/L
+                  - definition [ref=e501]: +$68.53
+          - generic [ref=e503]:
+            - generic [ref=e504]:
+              - generic [ref=e505]:
+                - text: ETF
+                - combobox [ref=e506]:
+                  - option "VCN · Vanguard FTSE Canada All Cap Index ETF" [selected]
+                  - option "XAW · iShares Core MSCI All Country World ex Canada Index ETF"
+                  - option "XBB · iShares Core Canadian Universe Bond Index ETF"
+                  - option "XEQT · iShares Core Equity ETF Portfolio"
+              - generic [ref=e507]:
+                - text: Units
+                - spinbutton [ref=e508]
+              - generic [ref=e509]:
+                - text: Avg cost / unit
+                - spinbutton [ref=e510]
+            - paragraph [ref=e511]
+            - button "Add holding" [ref=e512]
+          - generic [ref=e513]:
+            - generic [ref=e515]:
+              - generic [ref=e516]:
+                - generic [ref=e517]:
+                  - paragraph [ref=e518]: XEQT
+                  - paragraph [ref=e519]: iShares Core Equity ETF Portfolio
+                - generic [ref=e520]:
+                  - generic [ref=e521]:
+                    - generic [ref=e522]:
+                      - text: Units
+                      - spinbutton [ref=e523]: "35.000000"
+                    - generic [ref=e524]:
+                      - text: Avg cost / unit
+                      - spinbutton [ref=e525]: "33.0500"
+                  - paragraph [ref=e526]
+                  - button "Save holding" [ref=e528]
+                - button "Delete holding" [ref=e530]
+              - generic [ref=e531]:
+                - paragraph [ref=e532]: Latest valuation
+                - generic [ref=e533]:
+                  - generic [ref=e534]:
+                    - term [ref=e535]: Latest price
+                    - definition [ref=e536]: $34.56
+                  - generic [ref=e537]:
+                    - term [ref=e538]: Market value
+                    - definition [ref=e539]: $1,209.60
+                  - generic [ref=e540]:
+                    - term [ref=e541]: Unrealized P/L
+                    - definition [ref=e542]: +$52.85
+                  - generic [ref=e543]:
+                    - term [ref=e544]: Price date
+                    - definition [ref=e545]: 2026-04-16
+            - generic [ref=e547]:
+              - generic [ref=e548]:
+                - generic [ref=e549]:
+                  - paragraph [ref=e550]: XAW
+                  - paragraph [ref=e551]: iShares Core MSCI All Country World ex Canada Index ETF
+                - generic [ref=e552]:
+                  - generic [ref=e553]:
+                    - generic [ref=e554]:
+                      - text: Units
+                      - spinbutton [ref=e555]: "28.000000"
+                    - generic [ref=e556]:
+                      - text: Avg cost / unit
+                      - spinbutton [ref=e557]: "41.8800"
+                  - paragraph [ref=e558]
+                  - button "Save holding" [ref=e560]
+                - button "Delete holding" [ref=e562]
+              - generic [ref=e563]:
+                - paragraph [ref=e564]: Latest valuation
+                - generic [ref=e565]:
+                  - generic [ref=e566]:
+                    - term [ref=e567]: Latest price
+                    - definition [ref=e568]: $42.44
+                  - generic [ref=e569]:
+                    - term [ref=e570]: Market value
+                    - definition [ref=e571]: $1,188.32
+                  - generic [ref=e572]:
+                    - term [ref=e573]: Unrealized P/L
+                    - definition [ref=e574]: +$15.68
+                  - generic [ref=e575]:
+                    - term [ref=e576]: Price date
+                    - definition [ref=e577]: 2026-04-14
+        - generic [ref=e578]:
+          - generic [ref=e579]:
+            - generic [ref=e580]:
+              - paragraph [ref=e581]: Taxable
+              - paragraph [ref=e582]: TAXABLE account · CAD
+            - generic [ref=e583]:
+              - paragraph [ref=e584]: 1 holding
+              - paragraph [ref=e585]: $1,057.98
+          - generic [ref=e586]:
+            - generic [ref=e587]:
+              - generic [ref=e588]:
+                - generic [ref=e589]:
+                  - text: Account name
+                  - textbox [ref=e590]: Taxable
+                - generic [ref=e591]:
+                  - text: Account type
+                  - combobox [ref=e592]:
+                    - option "TFSA"
+                    - option "RRSP"
+                    - option "TAXABLE" [selected]
+                    - option "GENERAL"
+                - paragraph [ref=e593]
+                - button "Save account" [ref=e595]
+              - button "Delete account" [ref=e597]
+            - generic [ref=e598]:
+              - paragraph [ref=e599]: Account valuation
+              - generic [ref=e600]:
+                - generic [ref=e601]:
+                  - term [ref=e602]: Market value
+                  - definition [ref=e603]: $1,057.98
+                - generic [ref=e604]:
+                  - term [ref=e605]: Cost basis
+                  - definition [ref=e606]: $1,039.50
+                - generic [ref=e607]:
+                  - term [ref=e608]: Unrealized P/L
+                  - definition [ref=e609]: +$18.48
+          - generic [ref=e611]:
+            - generic [ref=e612]:
+              - generic [ref=e613]:
+                - text: ETF
+                - combobox [ref=e614]:
+                  - option "VCN · Vanguard FTSE Canada All Cap Index ETF" [selected]
+                  - option "XAW · iShares Core MSCI All Country World ex Canada Index ETF"
+                  - option "XBB · iShares Core Canadian Universe Bond Index ETF"
+                  - option "XEQT · iShares Core Equity ETF Portfolio"
+              - generic [ref=e615]:
+                - text: Units
+                - spinbutton [ref=e616]
+              - generic [ref=e617]:
+                - text: Avg cost / unit
+                - spinbutton [ref=e618]
+            - paragraph [ref=e619]
+            - button "Add holding" [ref=e620]
+          - generic [ref=e623]:
+            - generic [ref=e624]:
+              - generic [ref=e625]:
+                - paragraph [ref=e626]: VCN
+                - paragraph [ref=e627]: Vanguard FTSE Canada All Cap Index ETF
+              - generic [ref=e628]:
+                - generic [ref=e629]:
+                  - generic [ref=e630]:
+                    - text: Units
+                    - spinbutton [ref=e631]: "22.000000"
+                  - generic [ref=e632]:
+                    - text: Avg cost / unit
+                    - spinbutton [ref=e633]: "47.2500"
+                - paragraph [ref=e634]
+                - button "Save holding" [ref=e636]
+              - button "Delete holding" [ref=e638]
+            - generic [ref=e639]:
+              - paragraph [ref=e640]: Latest valuation
+              - generic [ref=e641]:
+                - generic [ref=e642]:
+                  - term [ref=e643]: Latest price
+                  - definition [ref=e644]: $48.09
+                - generic [ref=e645]:
+                  - term [ref=e646]: Market value
+                  - definition [ref=e647]: $1,057.98
+                - generic [ref=e648]:
+                  - term [ref=e649]: Unrealized P/L
+                  - definition [ref=e650]: +$18.48
+                - generic [ref=e651]:
+                  - term [ref=e652]: Price date
+                  - definition [ref=e653]: 2026-04-14

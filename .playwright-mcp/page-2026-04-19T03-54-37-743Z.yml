@@ -1,0 +1,67 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e96]
+  - main [ref=e97]:
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - generic [ref=e100]: Phase 3 account creation
+        - generic [ref=e101]:
+          - generic [ref=e102]:
+            - paragraph [ref=e103]: Credentials access
+            - heading "Create your account and start onboarding" [level=1] [ref=e104]
+          - paragraph [ref=e105]: Set up credentials, move directly into portfolio onboarding, and keep the first-run experience aligned with the rest of the product shell.
+        - generic [ref=e106]:
+          - generic [ref=e107]:
+            - term [ref=e108]: Sign-up action
+            - definition [ref=e109]: Server wired
+            - paragraph [ref=e110]: Uses the existing registration service and action.
+          - generic [ref=e111]:
+            - term [ref=e112]: Auto sign-in
+            - definition [ref=e113]: Enabled
+            - paragraph [ref=e114]: Successful registration continues into onboarding.
+          - generic [ref=e115]:
+            - term [ref=e116]: Portfolio setup
+            - definition [ref=e117]: Next step
+            - paragraph [ref=e118]: The first portfolio is created right after account creation.
+          - generic [ref=e119]:
+            - term [ref=e120]: Visual tone
+            - definition [ref=e121]: Consistent
+            - paragraph [ref=e122]: Built from the same rounded Tailwind surfaces as home.
+        - generic [ref=e123]:
+          - paragraph [ref=e124]:
+            - text: Already registered?
+            - link "Sign in instead" [ref=e125] [cursor=pointer]:
+              - /url: /sign-in
+            - text: .
+          - link "Back to the landing page" [ref=e126] [cursor=pointer]:
+            - /url: /
+      - generic [ref=e127]:
+        - generic [ref=e128]:
+          - paragraph [ref=e129]: Create your account
+          - heading "Set up your ETF workspace" [level=2] [ref=e130]
+          - paragraph [ref=e131]: This account unlocks the onboarding flow and the first dashboard shell.
+        - generic [ref=e132]:
+          - group [ref=e133]:
+            - generic [ref=e134]:
+              - text: Name
+              - textbox "Name" [ref=e135]:
+                - /placeholder: Optional display name
+            - generic [ref=e136]:
+              - text: Email
+              - textbox "Email" [ref=e137]:
+                - /placeholder: you@example.com
+            - generic [ref=e138]:
+              - text: Password
+              - textbox "Password" [ref=e139]:
+                - /placeholder: At least 8 characters
+            - generic [ref=e140]:
+              - text: Confirm password
+              - textbox "Confirm password" [ref=e141]:
+                - /placeholder: Re-enter your password
+          - paragraph [ref=e142]
+          - generic [ref=e143]:
+            - button "Create account" [ref=e144]
+            - paragraph [ref=e145]:
+              - text: Already have an account?
+              - link "Sign in instead" [ref=e146] [cursor=pointer]:
+                - /url: /sign-in
+              - text: .
